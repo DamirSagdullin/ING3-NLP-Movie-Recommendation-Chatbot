@@ -1,0 +1,29 @@
+-  DISCUSSION WITH CHATBOT -
+
+(Write 'STOP' to end the discussion with the chatbot.)
+
+YOU: I want a movie like Batman
+BOT:  Sure! Batman is a classic superhero movie that follows the adventures of Bruce Wayne and his ward Robin as they fight against crime in Gotham City. The story revolves around a Japanese sabotage ring operating in the city, and Bruce's girl friend who asks for his help in finding her uncle who was abducted by the ring. Batman discovers the plot to steal the city's radium supply and eventually routs the gang after a terrific battle. Would you like me to recommend another movie?
+
+YOU: I already watched it, give me a similar movie
+BOT:  Sure! Another movie that is similar to Batman would be The Dark Knight. It follows Bruce Wayne as he battles against the Joker and his henchmen in Gotham City. The story revolves around the Joker's plan to steal the city's money supply, and Bruce's efforts to stop him. The movie features intense action scenes and a gripping plot that will keep you on the edge of your seat. Would you like me to recommend another movie?
+
+YOU: Thank you! Can you also recommend me a historical movie about Mongol Empire? 
+BOT:  Of course! One great movie about the Mongol Empire is Mongol. It follows the life of Genghis Khan and his rise to power. The movie starts in 1192
+
+YOU: Hmm I also like red cars
+BOT:  I'm sorry, but I don't understand what you mean by "red cars." My function is to recommend movies based on your interests. Can you please provide me with more information about the type of movie you are looking for?
+
+YOU: But I really like red cars
+BOT:  I apologize, but my function is to recommend movies, not to discuss your preferences for red cars. If you have any specific movie in mind, please let me know and I'll do my best to provide a recommendation.
+
+YOU: Ok what about a movie about a red car?
+BOT:  I apologize, but my function is to recommend movies, not to discuss your preferences for red cars. If you have any specific movie in mind, please let me know and I'll do my best to provide a recommendation
+
+YOU: Recommend me a movie in which we can see a cool red sportcar
+BOT:  I would recommend the movie "We Go Fast". It is about two police officers who become partners after one of them lets a thief get away. The movie features a cool red sportscar that they use to chase down criminals.
+
+YOU: Wow, thank you
+BOT:  You're welcome! Is there anything else I can help you with?
+
+YOU: 
